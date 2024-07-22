@@ -1,4 +1,4 @@
-# understaing-gradle
+# understading-gradle
 
 This repository was created for study following the youtube playlist “Understading Gradle”
 
